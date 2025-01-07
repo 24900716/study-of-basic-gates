@@ -1,6 +1,6 @@
 ### NAME: DINESH KARTHIK R
 ### REG NO: 24900716
-### EXPERIMENT: STUDY OF BASIC GATES
+### EXPERIMENT 1: STUDY OF BASIC GATES
 ### AIM: 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
